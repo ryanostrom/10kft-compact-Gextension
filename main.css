@@ -1,0 +1,64 @@
+
+.make-compact-container .fnt-b-15 {
+  font-size: 10px !important;
+  text-align: left !important;
+}
+
+.make-compact-container .fnt-b-14-ws {
+  font-size: 10px !important;
+}
+
+.make-compact-container .fnt-b-14 {
+  font-size: 9px !important;
+}
+
+.make-compact-container .gridColumnHeader {
+  width: 112px !important;
+}
+
+
+.make-compact-container .gridColumnVBorder {
+  width: 112px !important;
+}
+
+.make-compact-container .gridHolidayBackground {
+  display: none !important;
+}
+
+.make-compact-container .gridItemContainer {
+  width: 112px !important;
+}
+
+.make-compact-container .rowItemContent {
+  font-size: 10px !important;
+  margin: 0 6px !important;
+}
+
+.make-compact-container .rowItemLabel1 {
+  margin-top: -3px !important;
+  height: 12px !important;
+}
+
+.make-compact-container .rowItemLabel2-wi {
+  font-size: 10px !important;
+}
+
+.make-compact-container .gridItemDragHandle {
+  display: none !important;
+}
+
+.make-compact {
+  position: fixed;
+  right: 16px;
+  top: 60px;
+  z-index: 999;
+  background: black;
+  padding: 6px 12px;
+  text-align: center;
+  color: white;
+  border-radius: 4px;
+  font-size: 10px;
+  font: small-caption;
+  cursor: pointer;
+}
+

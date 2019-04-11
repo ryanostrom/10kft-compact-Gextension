@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "10k Compact View",
+  "version": "1",
+  "description": "Compact View for 10k ft",
+  "author": "Ryan Ostrom",
+  "content_scripts": [{
+    "css": ["main.css"],
+    "js": ["main.js"],
+    "matches": ["https://app.10000ft.com/plan"]
+  }]
+}
